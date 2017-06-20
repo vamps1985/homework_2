@@ -1,0 +1,31 @@
+div {
+	width: 180px;
+	height: 180px;
+	border: 0.5px solid grey;
+}
+
+
+.one {
+	margin-left: 5px;
+	width: 70px;
+	height: 40px;
+	background-color: red;
+
+}
+
+.two {
+	margin-left: 5px;
+	background-color: #FFBF00;
+	height: 40px;
+	width: 120px;
+	
+
+}
+.three {
+	margin-left: 5px;
+	background-color: #642EFE;
+	height: 40px;
+	width: 170px;
+	
+
+}

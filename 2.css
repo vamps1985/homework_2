@@ -1,0 +1,24 @@
+
+div {
+	width: 300px;
+	border: 0.2px solid grey;
+}
+
+
+h2 {
+	background-color: red;
+	width: 200px;
+	color: white;
+}
+
+.first {
+	width: 250px;
+	height: 50px;
+	background-color: #4600FF;
+}
+
+.second {
+	width: 250px;
+	height: 40px;
+	background-color: #FFFF00; 
+}
